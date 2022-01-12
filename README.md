@@ -31,5 +31,5 @@ No primeiro projeto desenvolvido, o objetivo foi de automatizar a tarefa de pega
 O segundo projeto desenvolvido consiste num estudo de caso ao qual uma empresa de Telecom enfrenta uma taxa de cancelamento de 26%. Então é realizada uma análise dos dados para confirmar a taxa, elencar as principais causas e propor soluções.
 
 <h1 align="center">
-    <img src="./assets/projeto02.png" > 
+    <img src="https://github.com/CrisnaldoSantos/intensivao-python/blob/main/assets/projeto02.PNG" > 
 </h1>
