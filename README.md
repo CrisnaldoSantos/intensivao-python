@@ -25,3 +25,11 @@ Os projetos foram desenvolvidos utilizando o <a href="https://jupyter.org/">Jupy
 #### Projeto 1 - Automação com GUI
 
 No primeiro projeto desenvolvido, o objetivo foi de automatizar a tarefa de pegar os dados mensais de uma empresa através de um link do Google Drive. E a partido da base baixada gerar indicadores e envia-los no corpo de um email.
+
+#### Projeto 2 - Análise de dados telecom
+
+O segundo projeto desenvolvido consiste num estudo de caso ao qual uma empresa de Telecom enfrenta uma taxa de cancelamento de 26%. Então é realizada uma análise dos dados para confirmar a taxa, elencar as principais causas e propor soluções.
+
+<h1 align="center">
+    <img src="./assets/projeto02.png" > 
+</h1>
